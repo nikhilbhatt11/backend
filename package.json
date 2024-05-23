@@ -12,5 +12,8 @@
     "backend"
   ],
   "author": "Nikhil Bhatt",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.2.5"
+  }
 }
